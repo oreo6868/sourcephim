@@ -9,7 +9,7 @@ import java.net.URI
 import java.net.URLDecoder
 
 class PhimmoichillProvider : MainAPI() {
-    override var mainUrl = "https://phimmoichillea.pro/"
+    override var mainUrl = "https://motchilll.xyz/"
     private var directUrl = mainUrl
     override var name = "Phimmoichill"
     override val hasMainPage = true
